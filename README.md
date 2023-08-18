@@ -1,10 +1,15 @@
-# Resume Builder
+Resume Builder 📄
+This app helps you to build your resume with some of the choosen templates, you can even customise your resume based on your requirements.
 
-Welcome to the **Resume Builder** project! This application is designed to assist you in creating your professional resume effortlessly. Whether you're a job seeker, a student, or anyone looking to showcase their skills and experience, Resume Builder provides a user-friendly interface to craft a polished and impressive resume.
+Hosted Website: https://resume-builder-gules.vercel.app/
 
-## Project Overview
-
-Resume Builder was developed as a part of the Alambetter capstone project. The goal of this project is to empower users to create well-structured resumes using a variety of customizable templates. With Resume Builder, you can select templates that suit your style and customize them according to your specific requirements.
+Technologies that are used in this project.
+1. React
+2. Material UI, for UI
+3. JSpdf, for downloading resume.
+4. Redux, for state management.
+5. React-avatar-edit, for selecting profile image for resume.
+6. React-router-dom, for routing.
 
 ## Getting Started
 
